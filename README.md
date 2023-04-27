@@ -15,7 +15,8 @@ This repo is the TF2.0 implementation of perCLTV: A General System for Personali
 ## Requirements
 The code has been tested running under Python 3.8.16, with the following packages installed (along with their dependencies):
 - tensorflow == 2.12.0
-- spektral ==1.2.0
+- spektral == 1.2.0
+- attention == 5.0.0
 - numpy == 1.23.5
 - pandas == 2.0.0
 - scikit-learn == 1.2.2
